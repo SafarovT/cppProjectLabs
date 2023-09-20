@@ -1,0 +1,4 @@
+﻿  hello_err.cpp
+C:\study\cppProject\SimplePrograms\cpp1_2\hello_err.cpp(5,10): error C2039: "cou": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\iostream(19,1): message : см. объявление "std"
+C:\study\cppProject\SimplePrograms\cpp1_2\hello_err.cpp(5,14): error C2065: cou: необъявленный идентификатор

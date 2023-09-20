@@ -1,0 +1,5 @@
+﻿  cpp1_3.cpp
+C:\study\cppProject\SimplePrograms\cpp1_3\cpp1_3.cpp(20,45): warning C4101: ex: неиспользованная локальная переменная
+C:\study\cppProject\SimplePrograms\cpp1_3\cpp1_3.cpp(24,41): warning C4101: ex: неиспользованная локальная переменная
+C:\study\cppProject\SimplePrograms\cpp1_3\cpp1_3.cpp(64): warning C4715: `anonymous namespace'::ParseNumbers: значение возвращается не при всех путях выполнения
+  cpp1_3.vcxproj -> C:\study\cppProject\SimplePrograms\x64\Debug\cpp1_3.exe

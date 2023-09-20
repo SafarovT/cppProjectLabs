@@ -1,0 +1,4 @@
+﻿  task1.cpp
+C:\study\cppProject\SimpleSFML\task1\task1.cpp(132,47): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\study\cppProject\SimpleSFML\task1\task1.cpp(132,40): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+  task1.vcxproj -> C:\study\cppProject\SimpleSFML\x64\Debug\task1.exe
