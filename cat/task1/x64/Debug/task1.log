@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (task1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  task1.cpp
+C:\study\projectPractice\cppProjectLabs\cat\task1\Arrow.h(86,23): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  task1.vcxproj -> C:\study\projectPractice\cppProjectLabs\cat\x64\Debug\arrow.exe

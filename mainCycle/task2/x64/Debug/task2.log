@@ -1,0 +1,6 @@
+﻿  task2.cpp
+C:\study\projectPractice\cppProjectLabs\mainCycle\task2\task2.cpp(20,47): warning C4305: инициализация: усечение из "double" в "float"
+C:\study\projectPractice\cppProjectLabs\mainCycle\task2\task2.cpp(25,51): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\study\projectPractice\cppProjectLabs\mainCycle\task2\task2.cpp(40,46): warning C4305: +=: усечение из "double" в "float"
+C:\study\projectPractice\cppProjectLabs\mainCycle\task2\task2.cpp(51,34): warning C4305: инициализация: усечение из "double" в "float"
+  task2.vcxproj -> C:\study\projectPractice\cppProjectLabs\mainCycle\x64\Debug\task2.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\study\projectPractice\cppProjectLabs\cat\cat\Cat.h(32,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\study\projectPractice\cppProjectLabs\cat\cat\Cat.h(64,23): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  cat.vcxproj -> C:\study\projectPractice\cppProjectLabs\cat\x64\Debug\cat.exe
